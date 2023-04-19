@@ -2,8 +2,6 @@
 
 I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Climbing and Exercise. I have experience in Python, Java, JavaScript and enjoy working on Web development projects.
 
-<img src="https://user-images.githubusercontent.com/50646001/233215970-a72c584f-c895-40f8-aa82-d72ac8f3cadf.png" alt="headshot" height="400" />
-
 ## 🚀 My Projects
 
 ### Mountain Bikes Ecommerce Store 
