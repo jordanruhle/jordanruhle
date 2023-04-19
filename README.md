@@ -30,7 +30,8 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - **Live Demo:** [pnwairlines.flights/](https://www.pnwairlines.flights/)
 - **Repository:** [github.com/jordanruhle/Airline-Reservation-System](https://github.com/jordanruhle/Airline-Reservation-System)
 
-![pnwAirlines (4)](https://user-images.githubusercontent.com/50646001/233210961-4ad009be-b103-4b9e-81bf-3f6bd02106ef.PNG)
+<img src="https://user-images.githubusercontent.com/50646001/233210961-4ad009be-b103-4b9e-81bf-3f6bd02106ef.PNG" alt="PNW Airlines" width="500" />
+
 - A flight reservation system with admin and flier interfaces, allowing admins to schedule and create flights while enabling customers to search, sort, and securely book flights.
 
 - Developed the back-end using Java, Spring Boot, and MySQL, leveraging MySQL Workbench for schema creation.
