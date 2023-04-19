@@ -21,7 +21,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - Created a mobile-first design using Tailwind and HeadlessUI for responsive browsing on various devices.
 - Deployed the site using AWS EC2, Route 53, Certbot, and CloudFront for a secure and reliable hosting solution.
 
-<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" width="600" />
+<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" width="500" />
 
 - **Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, Mongoose, Multer, AWS SDK, AWS S3, Tailwind, HeadlessUI, JWT, Stripe API, AWS EC2, Route 53, Certbot, CloudFront.
 
@@ -54,7 +54,8 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 
 ## 📚 Education and Certifications
 
-![Coding-Dojo-SD-Certificate](https://user-images.githubusercontent.com/50646001/233211963-2837276e-9be0-4aef-a0a4-02b581ac6679.PNG)
+<img src="https://user-images.githubusercontent.com/50646001/233211963-2837276e-9be0-4aef-a0a4-02b581ac6679.PNG" alt="coding dojo softwared Development certificate" width="500" />
+![Coding-Dojo-SD-Certificate]()
 - Software Development Certificate, Coding Dojo, 2022
 - B.S. in Clinical Physiology, Central Washington University, 2017
 
