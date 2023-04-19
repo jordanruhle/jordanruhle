@@ -1,6 +1,6 @@
 # Hi, I'm Jordan Ruhle 👋
 
-I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Climbing and Exercise. I have experience in Python, Java, JavaScript and enjoy working on [Types of Projects].
+I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Climbing and Exercise. I have experience in Python, Java, JavaScript and enjoy working on Web development projects.
 
 ![OrangeHeadShot](https://user-images.githubusercontent.com/50646001/233202044-46e1937b-6abb-4f8d-8eb2-9a4f5c3408db.jpg)
 
