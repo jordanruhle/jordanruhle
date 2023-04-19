@@ -11,7 +11,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - **Live Demo:** [mountainbikes.store](https://www.mountainbikes.store/)
 - **Repository:** [github.com/jordanruhle/ecommerce](https://github.com/jordanruhle/ecommerce)
 
-<img src="[https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif](https://user-images.githubusercontent.com/50646001/233202191-0dea87b2-d55d-4782-88a0-bc62c06401b3.PNG)" alt="Mountain Bike Ecommerce" width="500" />
+<img src="(https://user-images.githubusercontent.com/50646001/233202191-0dea87b2-d55d-4782-88a0-bc62c06401b3.PNG" alt="Mountain Bike Ecommerce" width="500" />
 
 
 - A full-stack e-commerce site with admin and shopper interfaces, enabling admins to upload products and shoppers to browse, filter, add to cart, and securely checkout.
