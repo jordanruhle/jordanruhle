@@ -2,7 +2,7 @@
 
 I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Climbing and Exercise. I have experience in Python, Java, JavaScript and enjoy working on Web development projects.
 
-![OrangeHeadShot](https://user-images.githubusercontent.com/50646001/233202044-46e1937b-6abb-4f8d-8eb2-9a4f5c3408db.jpg)
+<img src="https://user-images.githubusercontent.com/50646001/233215970-a72c584f-c895-40f8-aa82-d72ac8f3cadf.png" alt="headshot" height="400" />
 
 ## 🚀 My Projects
 
@@ -12,7 +12,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - **Repository:** [github.com/jordanruhle/ecommerce/project-name](https://github.com/jordanruhle/ecommerce)
 
 ![ecommerce-thumb](https://user-images.githubusercontent.com/50646001/233202191-0dea87b2-d55d-4782-88a0-bc62c06401b3.PNG)
-![mountainBikesEcommerce2-2](https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif)
+<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" width="660" />
 - A full-stack e-commerce site with admin and shopper interfaces, enabling admins to upload products and shoppers to browse, filter, add to cart, and securely checkout.
 
 - Implemented product upload functionality using Multer, MongoDB, Mongoose, AWS SDK, and AWS S3.
@@ -76,9 +76,4 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - Cats 🐈
 
 _🔭 I am always eager to learn and collaborate on interesting projects. Feel free to reach out!_
-
-
-
-
-
 
