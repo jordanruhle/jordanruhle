@@ -9,8 +9,9 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - **Live Demo:** [mountainbikes.store](https://www.mountainbikes.store/)
 - **Repository:** [github.com/jordanruhle/ecommerce](https://github.com/jordanruhle/ecommerce)
 
-<img src="https://user-images.githubusercontent.com/50646001/233202191-0dea87b2-d55d-4782-88a0-bc62c06401b3.PNG" alt="Mountain Bike Ecommerce" width="500" />
-
+<a href="https://www.mountainbikes.store/">
+  <img src="https://user-images.githubusercontent.com/50646001/233202191-0dea87b2-d55d-4782-88a0-bc62c06401b3.PNG" alt="Mountain Bike Ecommerce" width="500" />
+</a>
 
 - A full-stack e-commerce site with admin and shopper interfaces, enabling admins to upload products and shoppers to browse, filter, add to cart, and securely checkout.
 
@@ -20,7 +21,9 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - Created a mobile-first design using Tailwind and HeadlessUI for responsive browsing on various devices.
 - Deployed the site using AWS EC2, Route 53, Certbot, and CloudFront for a secure and reliable hosting solution.
 
-<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" />
+<a href="https://www.mountainbikes.store/">
+  <img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" />
+</a>
 
 - **Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, Mongoose, Multer, AWS SDK, AWS S3, Tailwind, HeadlessUI, JWT, Stripe API, AWS EC2, Route 53, Certbot, CloudFront.
 
@@ -28,7 +31,9 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - **Live Demo:** [pnwairlines.flights/](https://www.pnwairlines.flights/)
 - **Repository:** [github.com/jordanruhle/Airline-Reservation-System](https://github.com/jordanruhle/Airline-Reservation-System)
 
-<img src="https://user-images.githubusercontent.com/50646001/233210961-4ad009be-b103-4b9e-81bf-3f6bd02106ef.PNG" alt="PNW Airlines" width="500" />
+<a href="https://www.pnwairlines.flights/">
+  <img src="https://user-images.githubusercontent.com/50646001/233210961-4ad009be-b103-4b9e-81bf-3f6bd02106ef.PNG" alt="PNW Airlines" width="500" />
+</a>
 
 - A flight reservation system with admin and flier interfaces, allowing admins to schedule and create flights while enabling customers to search, sort, and securely book flights.
 
