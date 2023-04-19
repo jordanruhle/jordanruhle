@@ -27,7 +27,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 
 - **Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, Mongoose, Multer, AWS SDK, AWS S3, Tailwind, HeadlessUI, JWT, Stripe API, AWS EC2, Route 53, Certbot, CloudFront.
 
-### PNW Airlines Flight Reservation (link-to-project-2-repo)
+### PNW Airlines Flight Reservation
 - **Live Demo:** [pnwairlines.flights/](https://www.pnwairlines.flights/)
 - **Repository:** [github.com/jordanruhle/Airline-Reservation-System](https://github.com/jordanruhle/Airline-Reservation-System)
 
