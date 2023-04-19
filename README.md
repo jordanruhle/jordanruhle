@@ -20,7 +20,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 - Created a mobile-first design using Tailwind and HeadlessUI for responsive browsing on various devices.
 - Deployed the site using AWS EC2, Route 53, Certbot, and CloudFront for a secure and reliable hosting solution.
 
-<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" width="500" />
+<img src="https://user-images.githubusercontent.com/50646001/233210212-f9fc94d9-bfbb-4945-931d-ac9c3e3c2529.gif" alt="Mountain Bike Ecommerce" />
 
 - **Technologies Used:** JavaScript, React, Node.js, Express, MongoDB, Mongoose, Multer, AWS SDK, AWS S3, Tailwind, HeadlessUI, JWT, Stripe API, AWS EC2, Route 53, Certbot, CloudFront.
 
