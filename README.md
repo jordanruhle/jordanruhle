@@ -60,7 +60,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 ## 📚 Education and Certifications
 
 <img src="https://user-images.githubusercontent.com/50646001/233211963-2837276e-9be0-4aef-a0a4-02b581ac6679.PNG" alt="coding dojo softwared Development certificate" width="500" />
-![Coding-Dojo-SD-Certificate]()
+
 - Software Development Certificate, Coding Dojo, 2022
 - B.S. in Clinical Physiology, Central Washington University, 2017
 
