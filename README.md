@@ -73,7 +73,7 @@ I'm a Full Stack Software Developer with a passion for Mountain Biking, Rock Cli
 ## 📬 Get in Touch
 
 - Email: [jordanruhle@gmail.com](mailto:jordanruhle@gmail)
-- LinkedIn: [linkedin.com/in/jordan-ruhle-76317198/](https://www.linkedin.com/in/jordan-ruhle-76317198/)
+- LinkedIn: [linkedin.com/in/jordan-ruhle/](https://www.linkedin.com/in/jordan-ruhle/)
 - Personal Website: [jordanr.dev](https://jordanr.dev)
 
 ## 🌱 Hobbies and Interests
